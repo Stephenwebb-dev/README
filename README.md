@@ -1,4 +1,3 @@
-# README
 Indie iOS projects &amp; Cybersecurity labs. Learning, building, and shipping apps while leveling up in security.
 
 # Hi, I'm Stephen Webb 👋
@@ -24,7 +23,9 @@ Git | GitHub | Xcode | TestFlight | Supabase | Firebase | RevenueCat
 
 ## 🚀 Current Projects
 
-- **Indie iOS App:** Building 100 Crappy iOS Apps 
+- **Indie iOS App:**
+- My objective is to build 100 Crappy iOS Apps to showcase a wide array of frameworks to have deep 
+understanding of Swift & SwiftUI. 
   *Building a simple app to practice SwiftUI and implement secure coding practices.*
 
 - **Cybersecurity Labs:**  
@@ -35,7 +36,7 @@ Git | GitHub | Xcode | TestFlight | Supabase | Firebase | RevenueCat
 ## 📚 Learning & Building
 
 I document my journey:
-- Daily progress on **iOS apps**
+- Weekly progress on **iOS apps**
 - Cybersecurity labs and certifications
 - Mistakes, wins, and lessons learned
 
@@ -45,8 +46,9 @@ Follow me on X for updates: [@StephenWebb_dev](https://x.com/StephenWebb_dev)
 
 ## 🌱 What I'm Learning
 
-- SwiftUI animations and data flow  
-- Cloud and mobile app security  
+- SwiftUI animations and data flow
+- Cloud and mobile app security
+- Email Security and Domain Authenticaion 
 - iOS subscription monetization (RevenueCat)  
 - SIEM and log monitoring (Splunk / ELK Stack)  
 
