@@ -1,6 +1,6 @@
 # Hi, I'm Stephen Webb 👋
 
-I'm a **Cybersecurity Engineer in Training** 🔐 and an **Indie iOS Developer** 📱, building in public and learning every day.  
+I'm a **Cybersecurity Engineer in Training** 🔐 and an **Indie iOS Engineer** 📱, building in public and learning every day.  
 
 I’m passionate about **secure software, SwiftUI, and shipping apps** while growing as a full-stack developer in security and iOS development.
 
@@ -34,7 +34,7 @@ understanding of Swift & SwiftUI.
 ## 📚 Learning & Building
 
 I document my journey:
-- Weekly progress on **iOS apps**
+- Weekly progress on **iOS & macOS apps**
 - Cybersecurity labs and certifications
 - Mistakes, wins, and lessons learned
 
